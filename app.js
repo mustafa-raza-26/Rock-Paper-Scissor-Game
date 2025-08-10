@@ -17,7 +17,7 @@ function game(playerChoice) {
         comp_Choice = "paper";
     }
     else if (computer_Num === 2) {
-        comp_Choice = "scissors"
+        comp_Choice = "scissors";
     }
     let result = "";
 
